@@ -1,15 +1,15 @@
 # Azure terraform quick start
 
-terraform init -upgrade
-terraform plan -out main.tfplan
-terraform apply main.tfplan
+## terraform init -upgrade
+## terraform plan -out main.tfplan
+## terraform apply main.tfplan
 
-resource_group_name=$(terraform output -raw resource_group_name)
+### resource_group_name=$(terraform output -raw resource_group_name)
 
 https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-terraform?tabs=azure-cli
 
 
-In this article, you learn how to:
+### In this article, you learn how to:
 
 Create a random value for the Azure resource group name using random_pet.
 Create an Azure resource group using azurerm_resource_group.
