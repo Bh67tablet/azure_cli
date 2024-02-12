@@ -1,3 +1,4 @@
+#!/bin/bash
 export RESOURCE_GROUP_NAME=Regroup_6iO13zsTUZqD6
 export LOCATION=westus
 export VM_NAME=myVM
