@@ -1,4 +1,4 @@
-export RESOURCE_GROUP_NAME=Regroup_1szhZ1CLNxILCbhsiz5x
+export RESOURCE_GROUP_NAME=Regroup_2n0OSwc_CLrV2crJbn
 export LOCATION=westus
 export VM_NAME=myVM
 export VM_IMAGE=Ubuntu2204
